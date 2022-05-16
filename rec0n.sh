@@ -10,8 +10,8 @@ purple="\e[35m"
 echo -e "${green}${bold}Enter domain to enumerate subdomains:- ${white}" ;
 read domain ;
 
-# BOOT WEESLEYLUNA
-echo -e "${red}${bold}[+]BOOT OF ${purple}WEESLEYLUNA";
+# rec0n WEESLEYLUNA
+echo -e "${red}${bold}[+]rec0n OF ${purple}WEESLEYLUNA";
 
 
 # Creating directories
